@@ -64,8 +64,6 @@
                             <goal>deploy</goal>
                         </goals>
                     </execution>
-                </executions>
-                <executions>
                 	<execution>
                         <id>create-config-specs</id>
                         <phase>verify</phase>                        
