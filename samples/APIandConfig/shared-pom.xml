@@ -20,7 +20,7 @@
         </pluginRepository>
     </pluginRepositories>
     <!-- Since Maven 3.0.3, for two plugins bound to the same phase, the order 
-         of execution is the same as the order in which you define them. -->
+         of execution is the same as the order in which you definxxxe them. -->
     <build>
         <plugins>
             <plugin>
